@@ -16,9 +16,9 @@ end
 local core_conf_files = {
     'core.options',
     'core.config',
-    'core.autocmd', 
-    'core.keymaps', 
-    'core.plugins', 
+    'core.autocmd',
+    'core.keymaps',
+    'core.plugins',
     'colorscheme',
 }
 
