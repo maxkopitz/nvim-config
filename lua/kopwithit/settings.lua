@@ -1,8 +1,8 @@
 vim.opt.nu = true
 vim.opt.relativenumber = true
-vim.opt.tabstop = 2 -- Insert 2 spaces for a tab
-vim.opt.softtabstop = 2 -- Insert 2 spaces for a tab
-vim.opt.shiftwidth = 2 -- Change a number of space characeters inseted for indentation
+vim.opt.tabstop = 4 -- Insert 2 spaces for a tab
+vim.opt.softtabstop = 4 -- Insert 2 spaces for a tab
+vim.opt.shiftwidth = 4 -- Change a number of space characeters inseted for indentation
 vim.opt.expandtab = true -- Use spaces instead of tabs
 
 vim.opt.wrap = false
